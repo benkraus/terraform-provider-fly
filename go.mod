@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/Khan/genqlient v0.4.0
-	github.com/hashicorp/terraform-plugin-framework v0.8.0
+	github.com/hashicorp/terraform-plugin-framework v0.9.0
 	github.com/hashicorp/terraform-plugin-go v0.9.1
 	github.com/hashicorp/terraform-plugin-log v0.4.1
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.17.0
@@ -66,6 +66,5 @@ require (
 	google.golang.org/genproto v0.0.0-20220608133413-ed9918b62aac // indirect
 	google.golang.org/grpc v1.47.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gvisor.dev/gvisor v0.0.0-20211020211948-f76a604701b6 // indirect
 )
